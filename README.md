@@ -170,17 +170,6 @@ All automatic actions can be disabled per device or globally:
 }
 ```
 
-## 📊 Dashboard Screenshots
-
-### Main Dashboard
-![Dashboard Overview](docs/images/dashboard-overview.png)
-
-### Device Details
-![Device Details](docs/images/device-details.png)
-
-### Alert History
-![Alert History](docs/images/alert-history.png)
-
 ## 📈 Performance Metrics
 
 ### Before AutoHeal Implementation
